@@ -1,0 +1,15 @@
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\bin\Debug\net7.0\Balta.exe
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\bin\Debug\net7.0\Balta.deps.json
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\bin\Debug\net7.0\Balta.runtimeconfig.json
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\bin\Debug\net7.0\Balta.dll
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\bin\Debug\net7.0\Balta.pdb
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\obj\Debug\net7.0\Balta.csproj.AssemblyReference.cache
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\obj\Debug\net7.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\obj\Debug\net7.0\Balta.AssemblyInfoInputs.cache
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\obj\Debug\net7.0\Balta.AssemblyInfo.cs
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\obj\Debug\net7.0\Balta.csproj.CoreCompileInputs.cache
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\obj\Debug\net7.0\Balta.dll
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\obj\Debug\net7.0\refint\Balta.dll
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\obj\Debug\net7.0\Balta.pdb
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\obj\Debug\net7.0\Balta.genruntimeconfig.cache
+C:\Users\Mathe\Documents\009-csharp-course\002-oopCSharp\oop-projeto\Balta\obj\Debug\net7.0\ref\Balta.dll
