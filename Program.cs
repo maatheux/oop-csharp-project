@@ -5,15 +5,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        var course = new Course();
-        course.Level = ContentContext.Enums.EContentLevel.Beginner;
-        foreach (var i in course.Modules)
-        {
-            Console.WriteLine(i);
-        }
+        var articles = new List<Article>();
+        articles.Add(new Article("Artigo sobre OOP", "orientacao-objetos"));
+        articles.Add(new Article("Artigo sobre C#", "csharp"));
+        articles.Add(new Article("Artigo sobre .NET", ".NET"));
 
-        var career = new Career();
-        career.Items.Add(new CareerItem());
-        Console.WriteLine(career.TotalCourses);
+        foreach (var article in articles)
+        {
+            Console.WriteLine($"{article.Id} - {article.Title} - {article.Url}");
+        }
     }
 }

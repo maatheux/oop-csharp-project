@@ -3,7 +3,7 @@ using Balta.ContentContext.Enums;
 
 public class Course : Content
 {
-  public Course ()
+  public Course (string title, string url) : base(title, url)
   {
     Modules = new List<Module>();
   }
