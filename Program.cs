@@ -31,7 +31,7 @@ class Program
         var careerDotnet = new Career("Especialista .NET", "especialista-dotnet");
         var careerItemDotnet3 = new CareerItem(3, "Aprenda .NET", "", courseAspNet);
         var careerItemDotnet = new CareerItem(1, "Comece por aqui", "", courseCsharp);
-        var careerItemDotnet2 = new CareerItem(2, "Aprenda OOP", "", courseOOP);
+        var careerItemDotnet2 = new CareerItem(2, "Aprenda OOP", "", null);
         careerDotnet.Items.Add(careerItemDotnet3);
         careerDotnet.Items.Add(careerItemDotnet);
         careerDotnet.Items.Add(careerItemDotnet2);
@@ -44,7 +44,12 @@ class Program
             foreach (var careerItem in career.Items.OrderBy(x => x.Order))
             {
                 Console.WriteLine($" . {careerItem.Order} - {careerItem.Title}");
-                Console.WriteLine($"   . {careerItem.Course.Title} - {careerItem.Course.Level.ToString()}");
+                Console.WriteLine($"   . {careerItem.Course?.Title} - {careerItem.Course?.Level.ToString()}");
+
+                foreach (var notification in careerItem.Notifications)
+                {
+                    Console.WriteLine($"      Notification -> {notification.Property} - {notification.Message}");
+                }
             }
         }
 
