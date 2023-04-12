@@ -18,7 +18,7 @@ class Program
 
         //////////// Carrer ////////////
         
-        var courseOOP = new Course("Fundamentos OOP", "fundamentos-oop", ContentContext.Enums.EContentLevel.Beginner);
+        /* var courseOOP = new Course("Fundamentos OOP", "fundamentos-oop", ContentContext.Enums.EContentLevel.Beginner);
         var courseCsharp = new Course("Fundamentos C#", "fundamentos-csharp", ContentContext.Enums.EContentLevel.Fundamental);
         var courseAspNet = new Course("Fundamentos ASP.NET", "fundamentos-aspnet", ContentContext.Enums.EContentLevel.Intermediary);
 
@@ -51,7 +51,11 @@ class Program
                     Console.WriteLine($"      Notification -> {notification.Property} - {notification.Message}");
                 }
             }
-        }
+        } */
+
+
+
+        ///////// SUBSCRIPTION ///////////
 
     }
 }
